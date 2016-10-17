@@ -9,7 +9,7 @@
 * [Questions or need help](#questions-or-need-help)<br><br>
 
 ###About the project
-**Code ATLEAST 3 programming questions a day**. This project is inspired from a [reddit post](https://www.reddit.com/r/cscareerquestions/comments/57hybf/i_sucked_at_algorithms_but_got_better_and_you_can) and a similar [initiative](https://github.com/Kallaway/100-days-of-code). To quote from the reddit post.<br><br>
+**Code ATLEAST 3 programming questions a day**. This project is inspired from a [reddit post](https://www.reddit.com/r/cscareerquestions/comments/57hybf/i_sucked_at_algorithms_but_got_better_and_you_can) and a similar [initiative](https://github.com/Kallaway/100-days-of-code).<br><br>
 Most of us while preparing for Software Engineering Full-Time/Intern find it difficult to bring in a sense of continuity. Tracking the progress will give a feel of responsibility to our inner self.<br><br> 
 
 ###Rules
