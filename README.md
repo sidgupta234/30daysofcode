@@ -46,4 +46,4 @@ Please bring in pull requests/open issues and help us improving our initiative.<
 ###Questions or need help
 Kindly ping us on social media, [@sidgupta234](https://twitter.com/SidGupta234) or [@rrichajalota](https://twitter.com/rrichajalota).<br><br>
 
-If you like out initiative, kindly star the repository :)
+If you like our initiative, kindly star the repository :)
