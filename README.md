@@ -25,10 +25,10 @@ Most of us while preparing for Software Engineering Full-Time/Intern find it dif
 
 ###FAQ 
 
-**Why 30 days and not 20 or 50?**
+**Why 30 days and not 20 or 50?**<br>
 Among peers we have noticed that it is difficult to have a goal that looks like a distant dream, we wanted to keep a realistic yet challenging target.
 
-**What if I miss out a day?**
+**What if I miss out a day?**<br>
 If you miss out a day, we'd encourage you to restart with the 30 day cycle. <br><br>
 
 ###Resources
