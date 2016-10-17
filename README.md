@@ -32,14 +32,14 @@ Among peers we have noticed that it is difficult to have a goal that looks like 
 If you miss out a day, we'd encourage you to restart with the 30 day cycle. <br><br>
 
 ###Resources
-I would suggest you to tackle problems of one of the following websites.<br>
+I would suggest you to tackle problems from one of the following websites.<br>
 [hackerrank's 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)<br>
 [leetcode](http://www.leetcode.com/)<br>
 [Interviewbit](https://www.interviewbit.com)<br> 
 
 You may use the following books too.<br>
-[Elements of Programming Interview](http://elementsofprogramminginterviews.com/)<br>
-[Cracking the coding Interview](https://www.careercup.com/book)<br><br>
+[Elements Of Programming Interviews](http://elementsofprogramminginterviews.com/)<br>
+[Cracking The Coding Interviews](https://www.careercup.com/book)<br><br>
 
 ##Contributing
 Please bring in pull requests/open issues and help us improving our initiative.<br><br>
