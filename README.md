@@ -33,8 +33,9 @@ If you miss out a day, we'd encourage you to restart with the 30 day cycle. <br>
 
 ###Resources
 I would suggest you to tackle problems of one of the following websites.<br>
-[leetcode](leetcode.com)<br>
-[Interviewbit](interviewbit.com)<br> 
+[hackerrank's 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+[leetcode](http://www.leetcode.com/)<br>
+[Interviewbit](https://www.interviewbit.com)<br> 
 
 You may use the following books too.<br>
 [Elements of Programming Interview](http://elementsofprogramminginterviews.com/)<br>
