@@ -19,7 +19,7 @@ Most of us while preparing for Software Engineering Full-Time/Intern find it dif
 	 - Copy paste the contents of template.md file to understand how you should format your progress.
 	
  - Code atleast 3 programming questions everyday, tagged with easy, medium and hard (suggestively in that order).
- - Tweet your progress every day using the #30DaysOfCode hashtag.
+ - Tweet your progress every day using the #30DaysOfCode hashtag or [@30daysofcode](twitter.com/30daysofcode).
  - You can keep a blogroll at your own site or on medium to support further keep check on your progress.<br><br>
 
 
