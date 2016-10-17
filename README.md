@@ -44,6 +44,6 @@ You may use the following books too.<br>
 Please bring in pull requests/open issues and help us improving our initiative.<br><br>
 
 ###Questions or need help
-Kindly ping me on social media, [@sidgupta234](https://twitter.com/SidGupta234) <br><br>
+Kindly ping us on social media, [@sidgupta234](https://twitter.com/SidGupta234) or [@rrichajalota](https://twitter.com/rrichajalota).<br><br>
 
-If you like my initiative, kindly star the repository :)
+If you like out initiative, kindly star the repository :)
