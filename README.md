@@ -1,5 +1,4 @@
 # 30daysofcode
-============
 
 ##Contents
 * [About the project](#about-the-project)  
