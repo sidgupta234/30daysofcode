@@ -6,7 +6,7 @@
 
 **Type:** Easy
 
-**Thoughts:** took some time came be breadth first search, it worked.
+**Thoughts:** took some time came with breadth first search, it worked.
 
 **Link to my solution:** [Solution](https://github.com/sidgupta234/leetcode/blob/master/102-BinTreeLevelOrder.cpp)<br><br>
 
