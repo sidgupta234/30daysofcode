@@ -1,5 +1,3 @@
-## Template
-
 ### Day 1:
 
 **Questions 1**:  
