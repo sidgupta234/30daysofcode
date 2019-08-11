@@ -1,6 +1,6 @@
 # 30daysofcode
 
-##Contents
+## Contents
 * [About the project](#about-the-project)  
 * [Rules](#rules)
 * [FAQ](#faq)
@@ -8,11 +8,11 @@
 * [Contributing](#contributing)
 * [Questions or need help](#questions-or-need-help)<br><br>
 
-###About the project
+### About the project
 **Code ATLEAST 3 programming questions a day**. This project is inspired from a [reddit post](https://www.reddit.com/r/cscareerquestions/comments/57hybf/i_sucked_at_algorithms_but_got_better_and_you_can) and a similar [initiative](https://github.com/Kallaway/100-days-of-code).<br><br>
 Most of us while preparing for Software Engineering Full-Time/Intern find it difficult to bring in a sense of continuity. Tracking the progress will give a feel of responsibility to our inner self.<br><br> 
 
-###Rules
+### Rules
 
  - Fork this repository and commit your progress daily in it.
 	 - Create a markdown file with your username as the name of the file, for example sidgupta234.md, in the coders folders.
@@ -23,7 +23,7 @@ Most of us while preparing for Software Engineering Full-Time/Intern find it dif
  - You can keep a blogroll at your own site or on medium to further keep check on your progress.<br><br>
 
 
-###FAQ 
+### FAQ 
 
 **Why 30 days and not 20 or 50?**<br>
 Among peers we have noticed that it is difficult to have a goal that looks like a distant dream, we wanted to keep a realistic yet challenging target.
@@ -31,7 +31,7 @@ Among peers we have noticed that it is difficult to have a goal that looks like 
 **What if I miss out a day?**<br>
 If you miss out a day, we'd encourage you to restart with the 30 day cycle. <br><br>
 
-###Resources
+### Resources
 I would suggest you to tackle problems from one of the following websites.<br>
 [hackerrank's 30 days of code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)<br>
 [leetcode](http://www.leetcode.com/)<br>
@@ -41,10 +41,10 @@ You may use the following books too.<br>
 [Elements Of Programming Interviews](http://elementsofprogramminginterviews.com/)<br>
 [Cracking The Coding Interviews](https://www.careercup.com/book)<br><br>
 
-##Contributing
+## Contributing
 Please bring in pull requests/open issues and help us improving our initiative.<br><br>
 
-###Questions or need help
-Kindly ping us on social media, [@sidgupta234](https://twitter.com/SidGupta234) or [@rrichajalota](https://twitter.com/rrichajalota).<br><br>
+### Questions or need help
+Kindly ping us on social media, [@sidgupta21](https://twitter.com/sid21g) or [@rrichajalota](https://twitter.com/rrichajalota).<br><br>
 
 If you like our initiative, kindly star the repository :)
