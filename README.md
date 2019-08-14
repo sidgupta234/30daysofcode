@@ -22,7 +22,6 @@ Most of us while preparing for Software Engineering Full-Time/Intern find it dif
  - Tweet your progress every day using the #30DaysOfCode hashtag or [@30daysofcode](https://www.twitter.com/30daysofcode).
  - You can keep a blogroll at your own site or on medium to further keep check on your progress.<br><br>
 
-
 ### FAQ 
 
 **Why 30 days and not 20 or 50?**<br>
@@ -46,5 +45,7 @@ Please bring in pull requests/open issues and help us improving our initiative.<
 
 ### Questions or need help
 Kindly ping us on social media, [@sidgupta21](https://twitter.com/sid21g) or [@rrichajalota](https://twitter.com/rrichajalota).<br><br>
+
+### Help us improve our [bot](https://github.com/sid21g/30daysofcodebot)
 
 If you like our initiative, kindly star the repository :)
