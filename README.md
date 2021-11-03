@@ -44,7 +44,7 @@ You may use the following books too.<br>
 Please bring in pull requests/open issues and help us improving our initiative.<br><br>
 
 ### Questions or need help
-Kindly ping us on social media, [@sidgupta21](https://twitter.com/sid21g) or [@rrichajalota](https://twitter.com/rrichajalota).<br><br>
+Kindly ping us on social media, [@sidgupta234](https://twitter.com/sidgupta234) or [@rrichajalota](https://twitter.com/rrichajalota).<br><br>
 
 ### Help us improve our [bot](https://github.com/sid21g/30daysofcodebot)
 
